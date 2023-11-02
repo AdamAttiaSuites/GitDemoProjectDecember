@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-17T14:53:45 EDT" name="Suite" finished-at="2023-05-17T14:53:58 EDT" duration-ms="12920">
+    <groups>
+    </groups>
+    <test started-at="2023-05-17T14:53:45 EDT" name="Test" finished-at="2023-05-17T14:53:58 EDT" duration-ms="12920">
+      <class name="myTest.Program1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:myTest.Program1@6973bf95]" started-at="2023-05-17T14:53:45 EDT" name="setUp" finished-at="2023-05-17T14:53:49 EDT" duration-ms="4665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyTitle()[pri:1, instance:myTest.Program1@6973bf95]" started-at="2023-05-17T14:53:49 EDT" name="VerifyTitle" finished-at="2023-05-17T14:53:50 EDT" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTitle -->
+        <test-method is-config="true" signature="tearDowb()[pri:0, instance:myTest.Program1@6973bf95]" started-at="2023-05-17T14:53:50 EDT" name="tearDowb" finished-at="2023-05-17T14:53:52 EDT" duration-ms="2170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDowb -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:myTest.Program1@6973bf95]" started-at="2023-05-17T14:53:52 EDT" name="setUp" finished-at="2023-05-17T14:53:55 EDT" duration-ms="3790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifylogo()[pri:2, instance:myTest.Program1@6973bf95]" started-at="2023-05-17T14:53:55 EDT" name="verifylogo" finished-at="2023-05-17T14:53:56 EDT" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogo -->
+        <test-method is-config="true" signature="tearDowb()[pri:0, instance:myTest.Program1@6973bf95]" started-at="2023-05-17T14:53:56 EDT" name="tearDowb" finished-at="2023-05-17T14:53:58 EDT" duration-ms="2164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDowb -->
+      </class> <!-- myTest.Program1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
